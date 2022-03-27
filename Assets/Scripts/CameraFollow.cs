@@ -11,11 +11,6 @@ public class CameraFollow : MonoBehaviour
     public Vector3 offset;
     private Vector3 velocity = Vector3.zero;
 
-    private void Start()
-    {
-        target = GameObject.FindGameObjectWithTag("Player").transform;
-    }
-
     private void FixedUpdate()
     {
         if(target == null)
