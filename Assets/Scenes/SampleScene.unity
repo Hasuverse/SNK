@@ -155,6 +155,15 @@ MonoBehaviour:
   turnSpeed: 180
   bodyParts:
   - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
+  - {fileID: 193587448684039288, guid: 1f3b10451eaa36b44b39e53f5b7c4e62, type: 3}
 --- !u!4 &30666846
 Transform:
   m_ObjectHideFlags: 0
