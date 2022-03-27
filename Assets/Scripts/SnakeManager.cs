@@ -101,4 +101,9 @@ public class SnakeManager : MonoBehaviour
             countUp = 0;
         }
     }
+
+    public void AddBodyParts(GameObject obj)
+    {
+        bodyParts.Add(obj);
+    }
 }
