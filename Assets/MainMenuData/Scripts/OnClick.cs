@@ -9,12 +9,12 @@ public class OnClick : MonoBehaviour
 
     void OnMouseDown()
     {
-        
+        fun.Invoke();
     }
 
     void OnMouseOver() 
     {
-           fun.Invoke();
+           
     }
 
 }
