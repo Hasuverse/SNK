@@ -280,9 +280,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2391caab9b6014f4086f3d70f91448f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 1460044251}
   despos: {fileID: 1452843167}
   menuscript: {fileID: 0}
+  cam: {fileID: 1460044253}
 --- !u!65 &385881901
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -496,9 +496,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2391caab9b6014f4086f3d70f91448f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 1460044251}
   despos: {fileID: 1040731992}
   menuscript: {fileID: 0}
+  cam: {fileID: 1460044253}
 --- !u!65 &641125422
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -828,9 +828,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2391caab9b6014f4086f3d70f91448f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 1460044251}
   despos: {fileID: 1452843167}
   menuscript: {fileID: 0}
+  cam: {fileID: 1460044253}
 --- !u!65 &1089488729
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -954,9 +954,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2391caab9b6014f4086f3d70f91448f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 1460044251}
   despos: {fileID: 345632569}
   menuscript: {fileID: 0}
+  cam: {fileID: 1460044253}
 --- !u!65 &1149179069
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1306,12 +1306,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1460044249}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2391caab9b6014f4086f3d70f91448f6, type: 3}
+  m_Script: {fileID: 11500000, guid: 9f49fc93c0f100e4fa843beba17e2f9f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 1460044251}
-  despos: {fileID: 0}
-  menuscript: {fileID: 0}
+  camdespos: {fileID: 0}
+  IsMoving: 0
 --- !u!1 &1500855659
 GameObject:
   m_ObjectHideFlags: 0
